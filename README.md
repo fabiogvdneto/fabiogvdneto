@@ -1,7 +1,11 @@
-## Welcome to my github profile 👋
+# Who am I
 
-Here you can find some of my personal projects as well as some academic projects.
+Hello! My name is Fabio Neto and I am currently enroled in a Computer Science and Engineering Master's Degree at Instituto Superior Tecnico.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabiogvdneto&show_icons=true&hide_rank=true">
+### Bachelor's Degree
+
+Here you can find some of the projects that were made during my stay at Instituto Superior Tecnico.
+Even though I try to create a repository for all of them, some of the projects are not here and probably
+never will be.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiogvdneto&layout=compact">
