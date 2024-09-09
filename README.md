@@ -12,6 +12,9 @@ never will be.
 - [Computer Organization](https://github.com/fabiogvdneto/ist-oc-2023) (OC)
 - [Computer Graphics](https://github.com/fabiogvdneto/ist-cgra-2024) (CGra)
 - [Introduction to Computer Architecture](https://github.com/pedroiralmeida/ist-proj-iac) (IAC)
+
+  A Meteor Shower Game made in 16-bit Assembly through an Architecture Simulator.
+  
 - [Foundations of Programming](https://github.com/fabiogvdneto/ist-fp-2020) (FP)
 - [Artificial Intelligence](https://github.com/fabiogvdneto/ist-iart-2023) (IArt)
 - [Operating Systems](https://github.com/henriqueeapsilva/ist-so-2022) (SO)
